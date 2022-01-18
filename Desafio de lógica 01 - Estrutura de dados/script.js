@@ -20,5 +20,8 @@ console.log(resultado)
 console.log("Estou mexendo no console.log")
 
 // Crie uma variável chamada “quartaFeira” e atribua à ela o valor booleano que representa verdadeiro ou falso e mostre a saída no console;
+let quartaFeira = true
+console.log(`Hoje é quarta-feira: ${quartaFeira}`)
 
 // Exiba no console o tipo de dado da váriavel quartaFeira;
+console.log(typeof quartaFeira)
